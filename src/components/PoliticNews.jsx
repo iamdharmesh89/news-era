@@ -11,14 +11,14 @@ const PoliticNews = (props) => {
 
   useEffect(() => {
     fetchData();
-  }, []);
+  }, [props]);
   console.log(news);
   return (
     <div className="container-cards">
       {news.map((item) => (
         <div className="card">
           <a href={item.url} rel="noreferrer" target="_blank">
-            <img className="news-image" src={item.urlToImage} alt="" />
+            <img className="news-image" src={item.urlToImage} alt="image not available" />
           </a>
           <h2 className="news-title">{item.title}</h2>
           <span className="date">Published on: {item.publishedAt}</span>

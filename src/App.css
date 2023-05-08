@@ -114,3 +114,10 @@ li.navbar-li a.active {
 li.navbar-li a:hover{
   color: #ff6f6f;
 }
+
+select {
+  position: fixed;
+  top: 13%;
+  z-index: 999;
+  padding: 8px 9px;
+}
