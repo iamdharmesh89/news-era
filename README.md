@@ -68,3 +68,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### Welcome to Daily News
+
+Daily News is a site where users can see real-time news with API where user can select their country to watch news and also select different categories of news, Let's see!!!
+
+### Home Page
+
+![image](https://github.com/iamdharmesh89/news-era/assets/96813180/01275613-a48b-48f6-ab6b-c1460d6a7e58)
+
+### Categories
+
+![image](https://github.com/iamdharmesh89/news-era/assets/96813180/637a6bea-8459-4901-b0b4-5ba4b4edce5c)
+
+
